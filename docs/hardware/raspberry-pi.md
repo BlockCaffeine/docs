@@ -8,6 +8,3 @@
 
 ## Hardware Pin Connections
 ![Hardware Pin Connctions](./hardware-pin-connections.png)
-
-## RS-232 Pinout
-![RS-232 Pinout](./rs-232-pinout.png)

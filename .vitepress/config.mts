@@ -4,9 +4,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BlockCaffeine",
   description: "BlockCaffeine Documentation",
-  base: '/docs/',
+  // base: '/docs/',
   srcDir: 'docs',
   cleanUrls: true,
+  vite: {
+    publicDir: '../public'
+  },
   head: [
     [
       'link',
@@ -43,7 +46,7 @@ export default defineConfig({
     ],
      
     logo: {
-      src: 'static/blockcaffeine.webp',
+      src: 'blockcaffeine.webp',
       alt: 'BlockCaffeine Logo'
     },
 
