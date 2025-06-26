@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BlockCaffeine",
   description: "BlockCaffeine Documentation",
-  // base: '/docs/',
+  // base: '/docs/', // Uncomment if using blockcaffeine.github.io/docs/
   srcDir: 'docs',
   cleanUrls: true,
   vite: {
@@ -42,7 +42,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/blockcaffeine' }
+      { icon: 'github', link: 'https://github.com/BlockCaffeine' }
     ],
      
     logo: {
