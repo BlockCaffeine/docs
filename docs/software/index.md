@@ -1,6 +1,6 @@
 # Software
 
-- [Software](./)
+- [Software](./index.md)
   - [Cafereum](./cafereum.md)
   - [EspressOS](./espressos.md)
   - [Jurassip](./jurassip.md)

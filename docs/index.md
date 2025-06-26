@@ -6,10 +6,10 @@ This page contains the technical documentation for the [BlockCaffeine](https://g
 
 ## Table of Contents
 
-- [Hardware](./hardware)
+- [Hardware](./hardware/index.md)
   - [Raspberry Pi](./hardware/raspberry-pi.md)
   - [Jura Coffee Machine](./hardware/jura-coffee-machine.md)
-- [Software](./software)
+- [Software](./software/index.md)
   - [Cafereum](./software/cafereum.md)
   - [EspressOS](./software/espressos.md)
   - [Jurassip](./software/jurassip.md)
