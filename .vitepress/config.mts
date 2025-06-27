@@ -38,6 +38,10 @@ export default defineConfig({
           { text: 'Anteiku', link: '/software/anteiku' },
           { text: 'Infrastructure', link: '/software/infrastructure' },
         ]
+      },
+      {
+        text: 'Metamask',
+        link: '/metamask'
       }
     ],
 
